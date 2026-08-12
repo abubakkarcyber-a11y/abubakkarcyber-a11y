@@ -143,11 +143,6 @@ I approach security as layered and interconnected — network, host, and applica
 
 ---
 
-## ⚖️ Ethics
-
-All work shown here is conducted in local, isolated, or explicitly authorized environments (CTFs, personal labs, intentionally vulnerable apps). This profile does not endorse or assist unauthorized access to systems.
-
----
 
 ## 📫 Connect
 
