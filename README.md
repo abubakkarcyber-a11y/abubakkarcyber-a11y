@@ -1,498 +1,125 @@
-# Muhammad Abubakkar
+# Hi, I'm Muhammad Abubakkar 👋
 
-### `Cybersecurity` · `Offensive Security` · `Security Research` · `Automation`
+**Cybersecurity Student · Ethical Hacking Learner · Open to Work**
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│                  OFFENSIVE SECURITY & SECURITY RESEARCH                     │
-│                                                                             │
-│        Recon → Enumeration → Analysis → Exploitation → Post-Exploitation    │
-│                         ↓                                                   │
-│                  Automation → Engineering → Research                        │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://komarev.com/ghpvc/?username=abubakkarcyber-a11y&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-I'm a **Computer Science student and cybersecurity practitioner** from Pakistan with **3+ years of continuous hands-on cybersecurity learning and lab experience**.
+I've been learning cybersecurity on my own for **3+ years**. I work in Kali Linux every day, and I mostly focus on penetration testing, web security, and network security. I'm now also learning IoT hacking, malware analysis, and Android security.
 
-My foundation is built around **Linux/Kali Linux, networking, reconnaissance, vulnerability assessment, web security, traffic analysis, OSINT, scripting, and security tooling**.
-
-Over time, my focus has evolved beyond simply learning individual tools.
-
-I'm working toward understanding the **systems, protocols, attack surfaces, vulnerabilities, and techniques behind the tools** — and using that knowledge to build automation, conduct deeper security research, and eventually work across advanced offensive-security domains.
+I don't just want to know *how* to use a tool. I want to know *why* it works — how the system underneath actually behaves. That's the way I try to learn everything.
 
 ---
 
-## 🧭 Where I'm Going
+## About Me
 
-My long-term objective is to become a **well-rounded offensive security and security research professional** capable of moving across different layers of a target environment.
-
-```text
-                           CYBERSECURITY
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-              ▼                 ▼                 ▼
-         OFFENSIVE         SECURITY RESEARCH   ENGINEERING
-           SECURITY              │                 │
-              │                  │                 │
-      ┌───────┼───────┐     ┌────┼────┐       ┌───┼────┐
-      │       │       │     │    │    │       │   │    │
-     WEB    NETWORK  MOBILE  RE   RE    VULN   PY  BASH LINUX
-      │       │       │     │  ENG  ANALYSIS  │   │    │
-      └───────┼───────┴─────┴────┴────┴───────┘
-              │
-              ▼
-          IoT / Cloud / Systems
-              │
-              ▼
-          RED TEAMING
-              │
-              ▼
-      ADVANCED SECURITY
-          RESEARCH
-```
-
-### Core domains
-
-* 🔴 Offensive Security
-* 🌐 Web Application Security
-* 🌐 Network Security
-* 📱 Mobile / Android Security
-* 📡 IoT Security
-* ☁️ Cloud Security
-* 🔍 Reconnaissance & OSINT
-* 🧬 Reverse Engineering
-* 🦠 Malware Analysis
-* 🔬 Vulnerability Research
-* 🐧 Linux & System Security
-* ⚙️ Security Automation
-* 🛠️ Security Tool Development
+- 🎓 BS Computer Science student
+- 🐧 3+ years using Linux / Kali Linux
+- 🔎 Comfortable with recon, OSINT, and enumeration
+- 🌐 Web app testing — SQLi, XSS, broken access control
+- 📡 Network scanning and traffic analysis (Nmap, Wireshark)
+- 🐍 Write my own scripts in Python and Bash
+- 📱 Currently learning: Android security, IoT hacking, malware analysis
+- 🧪 I practice on TryHackMe, PortSwigger, and other legal training labs
+- 💼 Open to cybersecurity internships and entry-level roles
 
 ---
 
-# ⚔️ Security Focus
+## What I'm Working Toward
 
-My current foundation includes practical experience with common cybersecurity workflows such as:
+My goal is to move from someone who *uses* security tools to someone who *understands* and *builds* them.
 
-```text
-Reconnaissance
-     ↓
-Information Gathering
-     ↓
-Enumeration
-     ↓
-Attack Surface Mapping
-     ↓
-Vulnerability Identification
-     ↓
-Validation / Exploitation
-     ↓
-Traffic & System Analysis
-     ↓
-Documentation
-     ↓
-Automation
-```
+**Step by step, this is how I learn something new:**
 
-I'm comfortable working with the **tooling and workflow concepts used throughout these stages**, and my current goal is to deepen the underlying technical knowledge behind them.
+`Study it → Practice it → Break it in a lab → Understand why it broke → Automate the boring parts`
+
+Right now I'm going deeper into:
+
+- Mobile / Android Security
+- IoT Security
+- Reverse Engineering
+- Malware Analysis
+- Vulnerability Research
+- Security Automation
 
 ---
 
-# 🧰 Security Arsenal
+## Skills & Tools
 
-### Reconnaissance & OSINT
+**Languages & Scripting**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp" height="45" alt="Languages"/>
+</p>
 
-`Nmap` · `Shodan` · `Google Dorking` · `DNS Enumeration` · `Passive Recon` · `Active Recon`
+**Web & Dev**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" height="45" alt="Web"/>
+</p>
 
-### Web Security
+**Tools I use daily**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker" height="45" alt="Dev tools"/>
+</p>
 
-`Burp Suite` · `OWASP` · `SQL Injection` · `XSS` · `Authentication` · `Access Control` · `IDOR`
+**Security tools**
 
-### Network Security
-
-`Nmap` · `Wireshark` · `TShark` · `TCP/IP` · `Network Enumeration` · `Traffic Analysis`
-
-### Linux & Systems
-
-`Kali Linux` · `Linux Administration` · `Bash` · `Processes` · `Services` · `Logs` · `Networking`
-
-### Programming & Automation
-
-`Python` · `Bash` · `C` · `C++`
-
-My goal is to progress from:
-
-```text
-TOOL USER
-   ↓
-TECHNICALLY STRONG OPERATOR
-   ↓
-AUTOMATION ENGINEER
-   ↓
-SECURITY TOOL BUILDER
-   ↓
-SECURITY RESEARCHER
-```
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-111111?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
+![Shodan](https://img.shields.io/badge/Shodan-CC0000?style=flat-square)
 
 ---
 
-# 🧠 How I Approach Cybersecurity
+## What I Practice On
 
-I don't want cybersecurity knowledge to become a collection of commands.
+**TryHackMe** — 13+ rooms completed, including OWASP Juice Shop, SQL Injection, Vulnversity, WebGOAT, DNS in Detail, and TShark Network Analysis.
+🔗 [My TryHackMe profile](https://tryhackme.com/p/haqgroup)
 
-For every technology I study, I try to understand:
+**PortSwigger Web Security Academy** — working through labs on SQL injection, authentication, access control (IDOR), and cross-site scripting.
 
-```text
-┌─────────────────────────────────────────────┐
-│              UNDERSTAND THE SYSTEM          │
-├─────────────────────────────────────────────┤
-│                                             │
-│  Architecture                               │
-│  Protocols                                  │
-│  Trust boundaries                           │
-│  Attack surface                             │
-│  Security controls                          │
-│  Common failure modes                       │
-│  Detection opportunities                    │
-│                                             │
-└──────────────────────┬──────────────────────┘
-                       ↓
-              APPLY SECURITY TO IT
-                       ↓
-                 AUTOMATE IT
-                       ↓
-              BUILD AROUND IT
-                       ↓
-                 RESEARCH IT
-```
-
-> **Tools change. Fundamentals don't.**
+I only test on systems I own, or on labs and platforms built for legal practice.
 
 ---
 
-# 🛠️ Building Security Software
+## Certifications
 
-A major part of my roadmap is building **real cybersecurity projects**, not just completing tutorials.
-
-I'm working toward a portfolio of **15+ substantial security projects** covering different areas of cybersecurity.
-
-### Current project direction
-
-```text
-Linux Administration
-        ↓
-Bash Automation
-        ↓
-Security Auditing
-        ↓
-Log Analysis
-        ↓
-Network Tooling
-        ↓
-Recon Automation
-        ↓
-Security Automation
-        ↓
-Offensive Security Frameworks
-```
-
-### Examples
-
-* 🔐 Security Log Analyzer
-* 🌐 Network Information Toolkit
-* 🐧 Linux Security & Administration Tools
-* 🔎 Reconnaissance Automation
-* 📊 Log Analysis & Threat Detection Utilities
-* 🐍 Python Security Utilities
-* ⚙️ Bash Security Automation
-* 🔴 Offensive Security Automation
-* 🔬 Vulnerability Research Utilities
-
-The objective isn't simply to produce scripts.
-
-The objective is to learn **software engineering through cybersecurity problems**.
+- Certified Ethical Hacking (v12) — Coursera
+- Ethical Hacking Essentials — EC-Council
+- The Complete Ethical Hacking Course — Coursera (Packt)
+- Generative AI Application Developer — UETIANS Lahore Endowment Foundation *(Top Performer)*
+- Cybersecurity and Ethical Hacking in Hindi — Udemy
+- Ethically Hack the Planet, Part 2 — Udemy
+- 🔄 In progress: a course covering IoT, web, network, malware, and Android hacking
 
 ---
 
-# 🔬 From Tools → Research
+## What You'll Find in My Repos
 
-My long-term progression is centered around going deeper than standard tool usage.
+I try to build small tools that actually do something, not just demo scripts.
 
-```text
-                USING SECURITY TOOLS
-                         │
-                         ▼
-              UNDERSTANDING THEIR
-                 IMPLEMENTATION
-                         │
-                         ▼
-              UNDERSTANDING THE
-                  TECHNOLOGY
-                         │
-                         ▼
-               UNDERSTANDING THE
-                 VULNERABILITY
-                         │
-                         ▼
-                REPRODUCING /
-                  ANALYZING
-                         │
-                         ▼
-               AUTOMATING THE
-                    WORK
-                         │
-                         ▼
-                BUILDING NEW
-                    TOOLS
-                         │
-                         ▼
-                SECURITY RESEARCH
-```
-
-This is the direction I want my GitHub to demonstrate.
+- 🔐 Security tools and scripts
+- 🐍 Python automation for security tasks
+- 🐧 Bash scripts for Linux and recon
+- 🌐 Web security practice projects
+- 📊 Log and traffic analysis tools
 
 ---
 
-# 🧪 Hands-On Security Practice
-
-I strongly believe that cybersecurity has to be practiced.
-
-My practical learning includes:
-
-### TryHackMe
-
-Hands-on work involving:
-
-* Web application security
-* Linux
-* Reconnaissance
-* DNS
-* SQL Injection
-* Network analysis
-* Vulnerable applications
-* OWASP Juice Shop
-* TShark
-
-### PortSwigger Web Security Academy
-
-Current areas include:
-
-* SQL Injection
-* Authentication
-* Access Control
-* IDOR
-* Cross-Site Scripting
-
-I use intentionally vulnerable applications, CTFs, labs, and controlled environments for security testing.
-
----
-
-# 📈 Current Development Path
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                    FOUNDATION                           │
-│ Linux · Networking · Python · Bash · CS Fundamentals   │
-└──────────────────────────┬──────────────────────────────┘
-                           ↓
-┌─────────────────────────────────────────────────────────┐
-│                 OFFENSIVE SECURITY                      │
-│ Web · Network · Recon · OSINT · Vulnerability Testing  │
-└──────────────────────────┬──────────────────────────────┘
-                           ↓
-┌─────────────────────────────────────────────────────────┐
-│                SECURITY ENGINEERING                     │
-│ Automation · Tool Development · Linux · Programming    │
-└──────────────────────────┬──────────────────────────────┘
-                           ↓
-┌─────────────────────────────────────────────────────────┐
-│                  ADVANCED DOMAINS                       │
-│ Mobile · IoT · Cloud · Reverse Engineering · Malware   │
-└──────────────────────────┬──────────────────────────────┘
-                           ↓
-┌─────────────────────────────────────────────────────────┐
-│                   RED TEAMING                           │
-│ Adversary Simulation · Operations · Automation          │
-└──────────────────────────┬──────────────────────────────┘
-                           ↓
-┌─────────────────────────────────────────────────────────┐
-│                 SECURITY RESEARCH                       │
-│ Vulnerabilities · RE · Malware · Exploit Research     │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🔥 What I'm Currently Pushing Toward
-
-### 01 — Deeper Systems Knowledge
-
-Understanding Linux, networking, protocols, operating systems, and programming at a deeper level.
-
-### 02 — Offensive Security Depth
-
-Moving beyond individual vulnerabilities toward complete attack-surface understanding and offensive-security workflows.
-
-### 03 — Security Automation
-
-Turning repetitive security workflows into reliable tools and frameworks.
-
-### 04 — Reverse Engineering
-
-Understanding binaries, program behavior, memory, operating-system internals, and malicious software.
-
-### 05 — Mobile & IoT
-
-Expanding offensive-security knowledge beyond traditional web and network environments.
-
-### 06 — Vulnerability Research
-
-Eventually moving toward discovering, analyzing, reproducing, and responsibly documenting vulnerabilities.
-
----
-
-# 🧩 My Learning Model
-
-```text
-                    THEORY
-                      │
-                      ▼
-                 LAB / CTF
-                      │
-                      ▼
-              REALISTIC PROJECT
-                      │
-                      ▼
-               BUILD A TOOL
-                      │
-                      ▼
-               BREAK / DEBUG
-                      │
-                      ▼
-                DOCUMENT IT
-                      │
-                      ▼
-                 AUTOMATE IT
-                      │
-                      ▼
-               GO ONE LEVEL DEEPER
-```
-
-I learn best when theory is immediately connected to **hands-on work and projects**.
-
----
-
-# 🏗️ GitHub Philosophy
-
-This GitHub is intended to become more than a collection of repositories.
-
-It is a record of my progression from:
-
-```text
-Cybersecurity Learner
-        ↓
-Security Practitioner
-        ↓
-Security Engineer
-        ↓
-Offensive Security Specialist
-        ↓
-Security Researcher
-```
-
-Every serious project should demonstrate at least one of:
-
-* Technical understanding
-* Practical security knowledge
-* Automation
-* Programming
-* System understanding
-* Security research
-* Problem solving
-
----
-
-# 🤝 Collaboration
-
-I'm interested in collaborating on:
-
-* 🔴 Offensive security projects
-* 🔬 Security research
-* 🧪 CTF teams
-* 🌐 Web security
-* 🐧 Linux security
-* ⚙️ Security automation
-* 🛠️ Security tooling
-* 📡 IoT security
-* 📱 Mobile security
-* 🌎 Open-source cybersecurity projects
-
----
-
-# 🌱 Areas I'm Going Deeper Into
-
-`Reverse Engineering`
-
-`Malware Analysis`
-
-`Mobile Security`
-
-`IoT Security`
-
-`Vulnerability Research`
-
-`Advanced Red Teaming`
-
-`Security Automation`
-
-`Systems Security`
-
----
-
-# 📚 Background
-
-* 🎓 BS Computer Science — University of Swabi
-* 🛡️ 3+ years of self-directed cybersecurity learning
-* 🐧 Long-term Kali Linux user
-* 🔐 Ethical hacking & cybersecurity certifications
-* 🧪 Hands-on CTF and vulnerable-lab experience
-* 🐍 Python & Bash security scripting
-* 🌐 Web & network security practice
-
-My resume documents my current education, certifications, practice platforms, and hands-on cybersecurity background.
-
----
-
-# 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakkarcyber-a11y\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkarcyber-a11y\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-# 🌐 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abubakkarcyber-a11y)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/muhammad-abubakkar-3a825a389)
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/haqgroup)
-
----
-
-# ⚠️ Responsible Security
-
-All security testing, experimentation, and research is performed only against systems, applications, labs, and environments where I have explicit authorization.
+## Let's Connect
+
+<p align="left">
+<a href="https://github.com/abubakkarcyber-a11y"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/muhammad-abubakkar-3a825a389"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://tryhackme.com/p/haqgroup"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+<a href="mailto:abubakkar.cyber@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+📩 abubakkar.cyber@gmail.com
 
 ---
 
 <div align="center">
 
-### `Understand systems. Find weaknesses. Build tools. Research security.`
-
-**— Muhammad Abubakkar**
+**Learn it. Break it safely. Understand it. Build something better.**
 
 </div>
