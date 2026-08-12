@@ -151,8 +151,4 @@ All work shown here is conducted in local, isolated, or explicitly authorized en
 
 ## 📫 Connect
 
-<p align="left">
-<!-- Add your links, e.g.: -->
-<!-- <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
-<!-- <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
-</p>
+<p align="left"> <a href="https://github.com/abubakkarcyber-a11y"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://linkedin.com/in/muhammad-abubakkar-3a825a389"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://tryhackme.com/p/haqgroup"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/> </a> </p>
