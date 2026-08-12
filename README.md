@@ -1,233 +1,283 @@
-# 👋 Muhammad Abubakkar
+# Muhammad Abubakkar
 
-### `Cybersecurity Student` • `Ethical Hacking` • `Security Research` • `Automation`
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                     CYBERSECURITY JOURNEY                        │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│   LEARN  →  BREAK  →  UNDERSTAND  →  BUILD  →  AUTOMATE         │
-│                                                                  │
-│                 →  RESEARCH  →  ADVANCE                          │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-I'm a Computer Science student and self-taught cybersecurity learner with **3+ years of hands-on experience** exploring Linux, networking, web security, ethical hacking, scripting, and security labs.
-
-My long-term objective is to become a **highly capable offensive security and security research professional**, with the ability to understand, assess, automate, and research complex systems across multiple security domains.
-
-I don't want to simply learn security tools.
-
-> **I want to understand the technology behind the tools — and eventually build the tools myself.**
-
----
-
-# 🎯 Mission
-
-My long-term roadmap is focused on developing depth across offensive security, security research, systems, programming, and automation.
+### `Cybersecurity` · `Offensive Security` · `Security Research` · `Automation`
 
 ```text
-                         ┌───────────────────┐
-                         │   CYBERSECURITY   │
-                         └─────────┬─────────┘
-                                   │
-             ┌─────────────────────┼─────────────────────┐
-             │                     │                     │
-             ▼                     ▼                     ▼
-      OFFENSIVE SECURITY    SECURITY RESEARCH       ENGINEERING
-             │                     │                     │
-       ┌─────┼─────┐         ┌─────┼─────┐        ┌─────┼─────┐
-       ▼     ▼     ▼         ▼     ▼     ▼        ▼     ▼     ▼
-      WEB  NETWORK MOBILE    RE    MALWARE VULN   PYTHON BASH LINUX
-       │     │     │         │       │      │
-       └─────┼─────┴─────────┴───────┴──────┘
-             │
-             ▼
-       IoT • Cloud • Systems
-             │
-             ▼
-        RED TEAMING
-             │
-             ▼
-     ADVANCED SECURITY
-         RESEARCH
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│                  OFFENSIVE SECURITY & SECURITY RESEARCH                     │
+│                                                                             │
+│        Recon → Enumeration → Analysis → Exploitation → Post-Exploitation    │
+│                         ↓                                                   │
+│                  Automation → Engineering → Research                        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+I'm a **Computer Science student and cybersecurity practitioner** from Pakistan with **3+ years of continuous hands-on cybersecurity learning and lab experience**.
 
-# 🧭 Areas of Focus
+My foundation is built around **Linux/Kali Linux, networking, reconnaissance, vulnerability assessment, web security, traffic analysis, OSINT, scripting, and security tooling**.
 
-<table>
-<tr>
-<td width="50%">
+Over time, my focus has evolved beyond simply learning individual tools.
 
-### 🔴 Offensive Security
-
-* Web Application Security
-* Network Security
-* Mobile / Android Security
-* IoT Security
-* Cloud Security
-* Penetration Testing
-* Red Teaming
-* Reconnaissance
-* OSINT
-
-</td>
-
-<td width="50%">
-
-### 🔬 Security Research
-
-* Vulnerability Research
-* Reverse Engineering
-* Malware Analysis
-* Exploit Understanding
-* Network Analysis
-* System Security
-* Security Tool Development
-* Automation
-
-</td>
-</tr>
-</table>
+I'm working toward understanding the **systems, protocols, attack surfaces, vulnerabilities, and techniques behind the tools** — and using that knowledge to build automation, conduct deeper security research, and eventually work across advanced offensive-security domains.
 
 ---
 
-# 🛠️ Technical Stack
+## 🧭 Where I'm Going
 
-### 💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-
-### 🐧 Systems & Networking
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square\&logo=kalilinux\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white)
-
-### 🔐 Security
-
-![Nmap](https://img.shields.io/badge/Nmap-2D2D2D?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)
-![Shodan](https://img.shields.io/badge/Shodan-CC0000?style=flat-square)
-
----
-
-# 🧪 Current Skill Development
+My long-term objective is to become a **well-rounded offensive security and security research professional** capable of moving across different layers of a target environment.
 
 ```text
-                    CURRENT FOUNDATION
-                           │
-        ┌──────────────────┼──────────────────┐
-        │                  │                  │
-      LINUX             NETWORKING          WEB
-        │                  │                  │
-        ▼                  ▼                  ▼
-     Bash             Nmap/Wireshark      Burp/OWASP
-        │                  │                  │
-        └──────────────────┼──────────────────┘
-                           │
-                           ▼
-                     AUTOMATION
-                           │
-                     Python / Bash
-                           │
-                           ▼
-                  SECURITY ENGINEERING
+                           CYBERSECURITY
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+              ▼                 ▼                 ▼
+         OFFENSIVE         SECURITY RESEARCH   ENGINEERING
+           SECURITY              │                 │
+              │                  │                 │
+      ┌───────┼───────┐     ┌────┼────┐       ┌───┼────┐
+      │       │       │     │    │    │       │   │    │
+     WEB    NETWORK  MOBILE  RE   RE    VULN   PY  BASH LINUX
+      │       │       │     │  ENG  ANALYSIS  │   │    │
+      └───────┼───────┴─────┴────┴────┴───────┘
+              │
+              ▼
+          IoT / Cloud / Systems
+              │
+              ▼
+          RED TEAMING
+              │
+              ▼
+      ADVANCED SECURITY
+          RESEARCH
 ```
 
-I'm currently strengthening this foundation while moving toward more advanced areas such as:
+### Core domains
 
-`Mobile Security` → `IoT Security` → `Malware Analysis` → `Reverse Engineering` → `Red Teaming` → `Vulnerability Research`
+* 🔴 Offensive Security
+* 🌐 Web Application Security
+* 🌐 Network Security
+* 📱 Mobile / Android Security
+* 📡 IoT Security
+* ☁️ Cloud Security
+* 🔍 Reconnaissance & OSINT
+* 🧬 Reverse Engineering
+* 🦠 Malware Analysis
+* 🔬 Vulnerability Research
+* 🐧 Linux & System Security
+* ⚙️ Security Automation
+* 🛠️ Security Tool Development
 
 ---
 
-# ⚙️ Build > Watch
+# ⚔️ Security Focus
 
-One of the biggest parts of my learning strategy is **building practical projects**.
-
-Instead of only completing courses, I want every major learning stage to produce something tangible.
-
-### 🔐 Security Tools
+My current foundation includes practical experience with common cybersecurity workflows such as:
 
 ```text
-Security Log Analyzer
-        ↓
-Network Information Toolkit
-        ↓
-Reconnaissance Automation
-        ↓
-Vulnerability Research Utilities
-        ↓
-Security Automation Frameworks
-        ↓
-Advanced Red Team Tooling
+Reconnaissance
+     ↓
+Information Gathering
+     ↓
+Enumeration
+     ↓
+Attack Surface Mapping
+     ↓
+Vulnerability Identification
+     ↓
+Validation / Exploitation
+     ↓
+Traffic & System Analysis
+     ↓
+Documentation
+     ↓
+Automation
 ```
 
-### 🐧 Linux / Bash
+I'm comfortable working with the **tooling and workflow concepts used throughout these stages**, and my current goal is to deepen the underlying technical knowledge behind them.
+
+---
+
+# 🧰 Security Arsenal
+
+### Reconnaissance & OSINT
+
+`Nmap` · `Shodan` · `Google Dorking` · `DNS Enumeration` · `Passive Recon` · `Active Recon`
+
+### Web Security
+
+`Burp Suite` · `OWASP` · `SQL Injection` · `XSS` · `Authentication` · `Access Control` · `IDOR`
+
+### Network Security
+
+`Nmap` · `Wireshark` · `TShark` · `TCP/IP` · `Network Enumeration` · `Traffic Analysis`
+
+### Linux & Systems
+
+`Kali Linux` · `Linux Administration` · `Bash` · `Processes` · `Services` · `Logs` · `Networking`
+
+### Programming & Automation
+
+`Python` · `Bash` · `C` · `C++`
+
+My goal is to progress from:
+
+```text
+TOOL USER
+   ↓
+TECHNICALLY STRONG OPERATOR
+   ↓
+AUTOMATION ENGINEER
+   ↓
+SECURITY TOOL BUILDER
+   ↓
+SECURITY RESEARCHER
+```
+
+---
+
+# 🧠 How I Approach Cybersecurity
+
+I don't want cybersecurity knowledge to become a collection of commands.
+
+For every technology I study, I try to understand:
+
+```text
+┌─────────────────────────────────────────────┐
+│              UNDERSTAND THE SYSTEM          │
+├─────────────────────────────────────────────┤
+│                                             │
+│  Architecture                               │
+│  Protocols                                  │
+│  Trust boundaries                           │
+│  Attack surface                             │
+│  Security controls                          │
+│  Common failure modes                       │
+│  Detection opportunities                    │
+│                                             │
+└──────────────────────┬──────────────────────┘
+                       ↓
+              APPLY SECURITY TO IT
+                       ↓
+                 AUTOMATE IT
+                       ↓
+              BUILD AROUND IT
+                       ↓
+                 RESEARCH IT
+```
+
+> **Tools change. Fundamentals don't.**
+
+---
+
+# 🛠️ Building Security Software
+
+A major part of my roadmap is building **real cybersecurity projects**, not just completing tutorials.
+
+I'm working toward a portfolio of **15+ substantial security projects** covering different areas of cybersecurity.
+
+### Current project direction
 
 ```text
 Linux Administration
         ↓
 Bash Automation
         ↓
-System Monitoring
-        ↓
 Security Auditing
         ↓
+Log Analysis
+        ↓
+Network Tooling
+        ↓
+Recon Automation
+        ↓
 Security Automation
+        ↓
+Offensive Security Frameworks
 ```
 
-### 🐍 Python
+### Examples
 
-```text
-Python Fundamentals
-        ↓
-File / Log Processing
-        ↓
-Networking
-        ↓
-Security APIs
-        ↓
-Automation
-        ↓
-Security Tool Development
-```
+* 🔐 Security Log Analyzer
+* 🌐 Network Information Toolkit
+* 🐧 Linux Security & Administration Tools
+* 🔎 Reconnaissance Automation
+* 📊 Log Analysis & Threat Detection Utilities
+* 🐍 Python Security Utilities
+* ⚙️ Bash Security Automation
+* 🔴 Offensive Security Automation
+* 🔬 Vulnerability Research Utilities
 
-### 🎯 Portfolio Goal
+The objective isn't simply to produce scripts.
 
-> **Build 15+ substantial cybersecurity projects that demonstrate real technical ability.**
+The objective is to learn **software engineering through cybersecurity problems**.
 
 ---
 
-# 🔎 Hands-On Practice
+# 🔬 From Tools → Research
 
-I believe cybersecurity skills are developed through **controlled experimentation**.
+My long-term progression is centered around going deeper than standard tool usage.
 
-My practice environments include:
+```text
+                USING SECURITY TOOLS
+                         │
+                         ▼
+              UNDERSTANDING THEIR
+                 IMPLEMENTATION
+                         │
+                         ▼
+              UNDERSTANDING THE
+                  TECHNOLOGY
+                         │
+                         ▼
+               UNDERSTANDING THE
+                 VULNERABILITY
+                         │
+                         ▼
+                REPRODUCING /
+                  ANALYZING
+                         │
+                         ▼
+               AUTOMATING THE
+                    WORK
+                         │
+                         ▼
+                BUILDING NEW
+                    TOOLS
+                         │
+                         ▼
+                SECURITY RESEARCH
+```
 
-### 🧪 TryHackMe
+This is the direction I want my GitHub to demonstrate.
 
-Hands-on rooms covering areas such as:
+---
 
-* Web Security
+# 🧪 Hands-On Security Practice
+
+I strongly believe that cybersecurity has to be practiced.
+
+My practical learning includes:
+
+### TryHackMe
+
+Hands-on work involving:
+
+* Web application security
 * Linux
 * Reconnaissance
 * DNS
 * SQL Injection
-* Network Analysis
+* Network analysis
+* Vulnerable applications
 * OWASP Juice Shop
-* Vulnerable Applications
+* TShark
 
-### 🌐 PortSwigger Web Security Academy
+### PortSwigger Web Security Academy
 
-Current focus includes:
+Current areas include:
 
 * SQL Injection
 * Authentication
@@ -235,118 +285,132 @@ Current focus includes:
 * IDOR
 * Cross-Site Scripting
 
----
-
-# 🧠 Learning Philosophy
-
-```text
-           ┌──────────────────────┐
-           │      TECHNOLOGY      │
-           └──────────┬───────────┘
-                      ↓
-              Understand How
-              It Actually Works
-                      ↓
-              Find Weaknesses
-                      ↓
-                Reproduce
-                      ↓
-                 Analyze
-                      ↓
-                 Automate
-                      ↓
-              Build Something
-                      ↓
-                Research
-```
-
-### I follow one principle:
-
-> **Don't memorize commands. Understand systems.**
-
-A tool is only useful when I understand:
-
-* what it does
-* why it works
-* what happens underneath
-* what its limitations are
-* how different tools interact
-* how the same task can be automated
+I use intentionally vulnerable applications, CTFs, labs, and controlled environments for security testing.
 
 ---
 
-# 📚 Current Learning Path
+# 📈 Current Development Path
 
 ```text
-FOUNDATION
-├── Linux
-├── Networking
-├── Python
-├── Bash
-└── Computer Science
-        │
-        ▼
-OFFENSIVE SECURITY
-├── Web Security
-├── Network Security
-├── Recon / OSINT
-├── Authentication
-├── Access Control
-└── Vulnerability Assessment
-        │
-        ▼
-ADVANCED SECURITY
-├── Mobile / Android
-├── IoT
-├── Cloud
-├── Reverse Engineering
-├── Malware Analysis
-└── Vulnerability Research
-        │
-        ▼
-RED TEAMING
-├── Reconnaissance
-├── Initial Access
-├── Privilege Escalation
-├── Persistence
-├── Defense Evasion
-├── Lateral Movement
-└── Security Automation
-        │
-        ▼
-LONG-TERM GOAL
-└── Advanced Security Research
+┌─────────────────────────────────────────────────────────┐
+│                    FOUNDATION                           │
+│ Linux · Networking · Python · Bash · CS Fundamentals   │
+└──────────────────────────┬──────────────────────────────┘
+                           ↓
+┌─────────────────────────────────────────────────────────┐
+│                 OFFENSIVE SECURITY                      │
+│ Web · Network · Recon · OSINT · Vulnerability Testing  │
+└──────────────────────────┬──────────────────────────────┘
+                           ↓
+┌─────────────────────────────────────────────────────────┐
+│                SECURITY ENGINEERING                     │
+│ Automation · Tool Development · Linux · Programming    │
+└──────────────────────────┬──────────────────────────────┘
+                           ↓
+┌─────────────────────────────────────────────────────────┐
+│                  ADVANCED DOMAINS                       │
+│ Mobile · IoT · Cloud · Reverse Engineering · Malware   │
+└──────────────────────────┬──────────────────────────────┘
+                           ↓
+┌─────────────────────────────────────────────────────────┐
+│                   RED TEAMING                           │
+│ Adversary Simulation · Operations · Automation          │
+└──────────────────────────┬──────────────────────────────┘
+                           ↓
+┌─────────────────────────────────────────────────────────┐
+│                 SECURITY RESEARCH                       │
+│ Vulnerabilities · RE · Malware · Exploit Research     │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🚀 What I'm Working Toward
+# 🔥 What I'm Currently Pushing Toward
 
-### Short Term
+### 01 — Deeper Systems Knowledge
 
-* Strengthen Linux & networking
-* Become stronger with Python & Bash
-* Build security automation tools
-* Improve web security skills
-* Build a serious GitHub portfolio
+Understanding Linux, networking, protocols, operating systems, and programming at a deeper level.
 
-### Medium Term
+### 02 — Offensive Security Depth
 
-* Advanced penetration testing
-* Mobile / Android security
-* IoT security
-* Reverse engineering
-* Malware analysis
-* Advanced Red Team workflows
+Moving beyond individual vulnerabilities toward complete attack-surface understanding and offensive-security workflows.
 
-### Long Term
+### 03 — Security Automation
 
-* Vulnerability research
-* Advanced offensive security
-* Security tool development
-* Security automation engineering
-* Deep systems understanding
+Turning repetitive security workflows into reliable tools and frameworks.
+
+### 04 — Reverse Engineering
+
+Understanding binaries, program behavior, memory, operating-system internals, and malicious software.
+
+### 05 — Mobile & IoT
+
+Expanding offensive-security knowledge beyond traditional web and network environments.
+
+### 06 — Vulnerability Research
+
+Eventually moving toward discovering, analyzing, reproducing, and responsibly documenting vulnerabilities.
+
+---
+
+# 🧩 My Learning Model
+
+```text
+                    THEORY
+                      │
+                      ▼
+                 LAB / CTF
+                      │
+                      ▼
+              REALISTIC PROJECT
+                      │
+                      ▼
+               BUILD A TOOL
+                      │
+                      ▼
+               BREAK / DEBUG
+                      │
+                      ▼
+                DOCUMENT IT
+                      │
+                      ▼
+                 AUTOMATE IT
+                      │
+                      ▼
+               GO ONE LEVEL DEEPER
+```
+
+I learn best when theory is immediately connected to **hands-on work and projects**.
+
+---
+
+# 🏗️ GitHub Philosophy
+
+This GitHub is intended to become more than a collection of repositories.
+
+It is a record of my progression from:
+
+```text
+Cybersecurity Learner
+        ↓
+Security Practitioner
+        ↓
+Security Engineer
+        ↓
+Offensive Security Specialist
+        ↓
+Security Researcher
+```
+
+Every serious project should demonstrate at least one of:
+
+* Technical understanding
+* Practical security knowledge
+* Automation
+* Programming
+* System understanding
 * Security research
+* Problem solving
 
 ---
 
@@ -354,55 +418,54 @@ LONG-TERM GOAL
 
 I'm interested in collaborating on:
 
-* 🔐 Cybersecurity research
-* 🔴 Red Team projects
-* 🧪 CTFs
+* 🔴 Offensive security projects
+* 🔬 Security research
+* 🧪 CTF teams
 * 🌐 Web security
 * 🐧 Linux security
 * ⚙️ Security automation
-* 🔬 Vulnerability research
-* 🌎 Open-source security projects
+* 🛠️ Security tooling
+* 📡 IoT security
+* 📱 Mobile security
+* 🌎 Open-source cybersecurity projects
 
 ---
 
-# 🌱 Looking for Help With
+# 🌱 Areas I'm Going Deeper Into
 
-I'm always interested in learning from people experienced in:
+`Reverse Engineering`
 
-`Reverse Engineering` • `Malware Analysis` • `Mobile Security` • `IoT Security` • `Vulnerability Research` • `Advanced Red Teaming`
+`Malware Analysis`
 
----
+`Mobile Security`
 
-# 💬 Ask Me About
+`IoT Security`
 
-```text
-Kali Linux
-Linux
-Ethical Hacking
-Web Security
-Networking
-Python
-Bash
-OSINT
-Security Automation
-```
+`Vulnerability Research`
+
+`Advanced Red Teaming`
+
+`Security Automation`
+
+`Systems Security`
 
 ---
 
-# 📜 Certifications & Practice
+# 📚 Background
 
-My current cybersecurity background includes ethical hacking and cybersecurity training, alongside hands-on labs and self-directed learning.
+* 🎓 BS Computer Science — University of Swabi
+* 🛡️ 3+ years of self-directed cybersecurity learning
+* 🐧 Long-term Kali Linux user
+* 🔐 Ethical hacking & cybersecurity certifications
+* 🧪 Hands-on CTF and vulnerable-lab experience
+* 🐍 Python & Bash security scripting
+* 🌐 Web & network security practice
 
-* Certified Ethical Hacking (v12)
-* Ethical Hacking Essentials
-* Complete Ethical Hacking Course
-* Cybersecurity & Ethical Hacking
-* Ethically Hack the Planet
-* Generative AI Application Developer
+My resume documents my current education, certifications, practice platforms, and hands-on cybersecurity background.
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakkarcyber-a11y\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
@@ -410,25 +473,7 @@ My current cybersecurity background includes ethical hacking and cybersecurity t
 
 ---
 
-# 🧪 Security Practice
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    RESPONSIBLE SECURITY                     │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   Learn → Practice → Analyze → Document → Improve           │
-│                                                             │
-│   All security testing is performed only on systems,        │
-│   applications, labs, and environments where I have         │
-│   explicit authorization.                                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🔗 Connect
+# 🌐 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abubakkarcyber-a11y)
 
@@ -438,40 +483,16 @@ My current cybersecurity background includes ethical hacking and cybersecurity t
 
 ---
 
-# 🛡️ The Bigger Picture
+# ⚠️ Responsible Security
 
-```text
-             ┌───────────────────────────┐
-             │      LEARN THE BASICS     │
-             └─────────────┬─────────────┘
-                           ↓
-             ┌───────────────────────────┐
-             │     MASTER THE SYSTEM     │
-             └─────────────┬─────────────┘
-                           ↓
-             ┌───────────────────────────┐
-             │    UNDERSTAND SECURITY    │
-             └─────────────┬─────────────┘
-                           ↓
-             ┌───────────────────────────┐
-             │       BUILD TOOLS         │
-             └─────────────┬─────────────┘
-                           ↓
-             ┌───────────────────────────┐
-             │      AUTOMATE WORK        │
-             └─────────────┬─────────────┘
-                           ↓
-             ┌───────────────────────────┐
-             │     RESEARCH SYSTEMS      │
-             └─────────────┬─────────────┘
-                           ↓
-             ┌───────────────────────────┐
-             │   ADVANCED CYBERSECURITY  │
-             └───────────────────────────┘
-```
-
-### `Building skills. Building tools. Researching security. 🚀`
+All security testing, experimentation, and research is performed only against systems, applications, labs, and environments where I have explicit authorization.
 
 ---
 
-<sub>⚠️ Ethical security research only. Testing is performed on authorized systems and controlled environments.</sub>
+<div align="center">
+
+### `Understand systems. Find weaknesses. Build tools. Research security.`
+
+**— Muhammad Abubakkar**
+
+</div>
